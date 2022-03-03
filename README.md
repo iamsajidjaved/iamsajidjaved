@@ -3,12 +3,12 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![Profile views](https://gpvc.arturio.dev/iamsajidjaved?v=3)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://sajidjaved.com/">Sajid Javed</a></b>
         </samp>
 </h3>
 <br>
