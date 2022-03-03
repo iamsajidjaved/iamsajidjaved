@@ -16,7 +16,6 @@
                 <br>
         </samp>
 </p>
-<br>
 
 <!-- Footer -->
 <samp>
