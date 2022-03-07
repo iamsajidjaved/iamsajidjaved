@@ -11,7 +11,7 @@
         <samp>
                 「SENIOR FULL STACK DEVELOPER WITH MANAGEMENT EXPERIENCE 」
                 <br>
-                「 I speak Laravel, Node, React & React Native 」
+                「 You can visit [sajidjaved.com](https://sajidjaved.com/) to know more about me. 」
                 <br>
                 <br>
         </samp>
@@ -22,6 +22,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻!"
+        "Thanks!"
     </p>
 </samp>
