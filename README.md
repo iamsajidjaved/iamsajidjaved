@@ -11,7 +11,7 @@
         <samp>
                 「SENIOR FULL STACK DEVELOPER WITH MANAGEMENT EXPERIENCE 」
                 <br>
-                「 You can visit [sajidjaved.com](https://sajidjaved.com/) to know more about me. 」
+                「 You can visit https://sajidjaved.com to know more about me. 」
                 <br>
                 <br>
         </samp>
