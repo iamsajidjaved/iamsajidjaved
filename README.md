@@ -9,11 +9,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「SENIOR FULL STACK DEVELOPER WITH MANAGEMENT EXPERIENCE 」
-                <br>
-                「 You can visit https://sajidjaved.com to know more about me. 」
-                <br>
-                <br>
+                「FOR WORK RELATED QUERIES: engr.maliksajidkhan@gmail.com / +971503973612]
         </samp>
 </p>
 
