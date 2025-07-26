@@ -1,23 +1,29 @@
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://sajidjaved.com/">Sajid Javed</a></b>
-        </samp>
+  <samp>&gt; Hey there! I’m <b>Sajid Javed</b> 👋</samp>
 </h3>
-<br>
 
 <p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「FOR WORK RELATED QUERIES: engr.maliksajidkhan@gmail.com / +971503973612]
-        </samp>
+  <samp>Backend Developer • Laravel Artisan • Automation Enthusiast</samp>
 </p>
 
+<br>
+
+<!-- Contact -->
+<p align="center">
+  <samp>
+    📬 <b>Work Inquiries:</b><br>
+    <a href="mailto:engr.maliksajidkhan@gmail.com">engr.maliksajidkhan@gmail.com</a><br>
+    📱 <a href="https://wa.me/971503973612" target="_blank">+971 50 397 3612</a>
+  </samp>
+</p>
+
+<br>
+
 <!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Thanks!"
-    </p>
-</samp>
+<p align="center">
+  <samp>
+    ════ ⋆★⋆ ════<br>
+    "Thanks for stopping by!"
+  </samp>
+</p>
