@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <samp>Backend Developer • Laravel Artisan • Automation Enthusiast</samp>
+  <samp>Software Architect & Automation Enthusiast</samp>
 </p>
 
 <br>
