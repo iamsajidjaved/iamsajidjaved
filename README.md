@@ -16,9 +16,6 @@
     <a href="mailto:work@sajidjaved.com">work@sajidjaved.com</a><br>
   </samp>
 </p>
-
-<br>
-
 <!-- Footer -->
 <p align="center">
   <samp>
